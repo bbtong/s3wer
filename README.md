@@ -9,3 +9,4 @@ Thus, we have s3wer. I plan to use Python3, Boto3, and whatever else is needed t
 
 If you searched for this, I am sorry, this utility is currently under development and I appreciate any issues or PRs contributed here.
 
+- S3 does not require region selection, so this will not be a filter.
