@@ -1,3 +1,5 @@
+<img width="608" alt="Screen Shot 2021-05-26 at 11 22 24 AM" src="https://user-images.githubusercontent.com/15917939/119711683-a7df8880-be14-11eb-8633-85d4640f8dc1.png">
+
 # s3wer
 Python CLI to empty / delete S3 buckets with filters such as timestamp, name, and ranges.
 
